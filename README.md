@@ -1,6 +1,6 @@
 ---
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
         <img src="https://imgur.com/cBuhArf.gif" width="80px" alt="Pixel Art GIF" />
@@ -11,6 +11,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
