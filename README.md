@@ -1,12 +1,8 @@
 ---
 <div align="center">
-  <div align="right">
-      <img src="https://imgur.com/cBuhArf.gif" width="80px" alt="Pixel Art GIF">
-  </div>
-  <div align="right">
-        <img src="https://readme-typing-svg.demolab.com?font=Pixelify+SansP&size=35&pause=500&color=F78C1D&width=750&lines=アニータです!;Welcome+to+my+Github!;" alt="Hello, welcome to my Github!">
-  </div>
-
+  <img src="https://imgur.com/cBuhArf.gif" width="80px" alt="Pixel Art GIF">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+SansP&size=35&pause=500&color=F78C1D&width=750&lines=アニータです!;Welcome+to+my+Github!;" alt="Hello, welcome to my Github!">
 </div>
 
 
