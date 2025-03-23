@@ -3,15 +3,13 @@
     <tr>
       <td>
         <h1>
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F7A41D&width=435&lines=アニータです!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=30&duration=2000&color=0078D7&width=450&lines=アニータです!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
         </h1>
-      </td>
-      <td>
-        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200px">
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
