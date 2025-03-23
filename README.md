@@ -42,12 +42,10 @@
 ---
 
 ## 🔥 Top Languages  
-## 🔥 Top Languages  
 <p align="center"> 
-  <img src="https://i.gifer.com/origin/ee/ee7a51f52f485c347ebbeeb1a24e1813_w200.gif" width="40%" alt="Cool GIF"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="40%" alt="Cool GIF"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annita049&layout=compact&theme=default" width="48%" alt="Top Languages" align="right"/>  
 </p>
-
 
 ---
 
