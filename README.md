@@ -7,21 +7,6 @@
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-      </td>
-      <td>
-        <blockquote>
-          <h3><i>"The best error message is the one that never shows up."</i></h3>
-        </blockquote>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 📊 GitHub Stats  
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=annita049&show_icons=true&theme=default" width="48%" alt="GitHub Stats"/> 
@@ -60,3 +45,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50px" alt="Arduino"/>
 </p>
 
+---
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+      </td>
+      <td>
+        <blockquote>
+          <h3><i>"The best error message is the one that never shows up."</i></h3>
+        </blockquote>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
