@@ -1,6 +1,6 @@
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=F78C1D&center=true&vCenter=true&width=550&lines=アニータです!;Code.+Create.+Innovate.;Turning+Ideas+into+Reality!;Welcome+to+My+GitHub+Hub! 🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=F78C1D&center=true&vCenter=true&width=550&lines=Hello+Annita+there;こんにちは+アニータです!;Welcome+to+my+Github!" alt="Typing SVG" />
   
   <br><br>
 
