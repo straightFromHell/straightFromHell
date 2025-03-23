@@ -1,7 +1,7 @@
+---
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=600&color=F78C1D&center=true&vCenter=true&width=800&lines=アニータです!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
-
 
 ---
 
