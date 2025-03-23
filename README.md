@@ -3,7 +3,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://imgur.com/cBuhArf.gif" width="150px" alt="Pixel Art GIF" />
+        <img src="https://imgur.com/cBuhArf.gif" width="80px" alt="Pixel Art GIF" />
       </td>
       <td>
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=F78C1D&width=450&lines=アニータです!;Code.+Create.+Innovate.;Welcome+to+My+Digital+Universe!;This+is+my+space+of+creation! 🚀" alt="Typing SVG" />
