@@ -27,7 +27,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+        <img src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="400"/>
       </td>
       <td>
         <blockquote>
