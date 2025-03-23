@@ -31,8 +31,8 @@
 
 ## 🔥 Top Languages  
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annita049&layout=compact&theme=default" width="46%" alt="Top Languages" align="left"/>  
-  <img src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="10%" alt="Pixel Coding GIF"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annita049&layout=compact&theme=default" width="40%" alt="Top Languages" align="left"/>  
+  <img src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="20%" alt="Pixel Coding GIF"/>
 </p>
 
 ---
