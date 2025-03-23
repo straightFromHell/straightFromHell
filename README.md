@@ -1,8 +1,8 @@
 ---
 <div align="center">
   <img src="https://imgur.com/cBuhArf.gif" width="70px" alt="Pixel Art GIF">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+SansP&size=32&pause=500&color=F78C1D&width=750&lines=アニータです!;Welcome+to+my+Github!;" alt="Hello, welcome to my Github!">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+SansP&size=30&pause=500&color=F78C1D&width=750&lines=アニータです!;Welcome+to+my+Github!;" alt="Hello, welcome to my Github!">
 </div>
 
 
