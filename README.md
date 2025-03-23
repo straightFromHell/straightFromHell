@@ -1,6 +1,6 @@
 ---
 <div align="center">
-  <img src="https://imgur.com/cBuhArf.gif" width="100px" alt="Pixel Art GIF">
+  <img src="https://imgur.com/cBuhArf.gif" width="80px" alt="Pixel Art GIF">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+SansP&size=40&pause=500&color=F78C1D&width=750&lines=Hello Annita here!;アニータです!;Welcome+to+my+Github." alt="Typing SVG">
 </div>
