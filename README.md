@@ -11,7 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=annita049&show_icons=true&theme=default" width="48%" alt="GitHub Stats"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=annita049&theme=default" width="50%" alt="GitHub Streak"/> 
 </p>
-
 ---
 
 ## 🔥 Top Languages  
