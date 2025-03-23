@@ -17,7 +17,7 @@
 ## 🔥 Top Languages  
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annita049&layout=compact&theme=default" width="42%" alt="Top Languages" align="right"/>  
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40%" alt="Pixel Coding GIF"/>
+  <img src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="40%" alt="Pixel Coding GIF"/>
 </p>
 
 ---
@@ -27,7 +27,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="400"/>
+        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
       </td>
       <td>
         <blockquote>
