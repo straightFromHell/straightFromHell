@@ -43,7 +43,7 @@
 
 ## 🔥 Top Languages  
 <p align="center"> 
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="40%" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40%" alt="Pixel Coding GIF"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annita049&layout=compact&theme=default" width="48%" alt="Top Languages" align="right"/>  
 </p>
 
