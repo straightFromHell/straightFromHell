@@ -1,7 +1,8 @@
 ---
 <div align="center">
-  <img src="https://imgur.com/cBuhArf.gif" width="80px" alt="Pixel Art GIF">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=F78C1D&width=750&lines=Hi It's Annita!;アニータです!;Welcome+to+my+Github." alt="Typing SVG">
+  <img src="https://imgur.com/cBuhArf.gif" width="80px" alt="Pixel Art GIF">
+  &nbsp;&nbsp;&nbsp; <!-- Adds spacing -->
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=500&color=F78C1D&width=750&lines=Hello Annita here!;アニータです!;Welcome+to+my+Github." alt="Typing SVG">
 </div>
 
 
