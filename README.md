@@ -1,7 +1,12 @@
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=600&color=F78C1D&center=true&vCenter=true&width=800&lines=アニータです!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=F78C1D&center=true&vCenter=true&width=550&lines=アニータです!;Code.+Create.+Innovate.;Turning+Ideas+into+Reality!;Welcome+to+My+GitHub+Hub! 🚀" alt="Typing SVG" />
+  
+  <br><br>
+
+  <img src="https://i.gifer.com/3ZHZ.gif" width="200px" alt="Pixel Art" />
 </div>
+
 
 ---
 
