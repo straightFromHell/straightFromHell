@@ -1,19 +1,16 @@
 ---
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table style="border-collapse: collapse;">
     <tr>
-      <td>
+      <td style="border: none; padding-right: 10px;">
         <img src="https://imgur.com/cBuhArf.gif" width="80px" alt="Pixel Art GIF" />
       </td>
-      <td>
+      <td style="border: none;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=F78C1D&width=750&lines=Hello Annita there!;アニータです!;Welcome+to+my+Github." alt="Typing SVG" />
       </td>
     </tr>
   </table>
 </div>
-
-
-
 
 ---
 
