@@ -4,6 +4,23 @@
   &nbsp;&nbsp;&nbsp; <!-- Adds spacing -->
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+SansP&size=30&pause=500&color=F78C1D&width=750&lines=Hello Annita here!;アニータです!;Welcome+to+my+Github." alt="Typing SVG">
 </div>
+---
+
+## 📊 GitHub Stats  
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=annita049&show_icons=true&theme=default" width="48%" alt="GitHub Stats"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annita049&theme=default" width="50%" alt="GitHub Streak"/> 
+</p>
+
+---
+
+## 🔥 Top Languages  
+<p align="center"> 
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40%" alt="Pixel Coding GIF"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annita049&layout=compact&theme=default" width="48%" alt="Top Languages" align="right"/>  
+</p>
+
+---
 
 
 <div align="center">
@@ -20,22 +37,6 @@
     </tr>
   </table>
 </div>
-
----
-
-## 📊 GitHub Stats  
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=annita049&show_icons=true&theme=default" width="48%" alt="GitHub Stats"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annita049&theme=default" width="50%" alt="GitHub Streak"/> 
-</p>
-
----
-
-## 🔥 Top Languages  
-<p align="center"> 
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40%" alt="Pixel Coding GIF"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annita049&layout=compact&theme=default" width="48%" alt="Top Languages" align="right"/>  
-</p>
 
 ---
 
