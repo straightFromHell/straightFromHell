@@ -1,13 +1,5 @@
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <h1>
-          <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=30&duration=2000&color=0078D7&width=450&lines=アニータです!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-        </h1>
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=アニータです!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 
